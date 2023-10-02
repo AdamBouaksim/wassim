@@ -15,4 +15,6 @@ echo ' la moyenne est de ' .$moyenne.' / 20 ';
 
 #test ajout commentaire
 
+#test fetch 
+
 ?>
